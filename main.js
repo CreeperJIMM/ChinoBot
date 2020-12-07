@@ -586,7 +586,7 @@ client.on('ready', (async() => {
     fs.readFile('./server.json',function (err,userInfo) {
       if(err) {return}else{var user = userInfo.toString();user = JSON.parse(user);
         user.chino.guild = client.guilds.cache.size
-        var str = JSON.stringify(user);fs.writeFileSync('./server.json',str)
+        var str = JSON.stringify(user);fs.writeFileSync('./server.json',str);
       }})
   }, 40000);
 }))
