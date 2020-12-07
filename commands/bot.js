@@ -149,7 +149,7 @@ module.exports= {
                 .addField("更新紀錄","```json\n"+user.post.update+"\n```")
                 .setFooter("資料更新日期: "+user.post.time+" | ").setTimestamp()
                 loadmessage.edit("✔讀取成功!")
-                loadmessage.edit(post)
+                loadmessage.edit(post);
             }, 2000);
         })})}
     },
