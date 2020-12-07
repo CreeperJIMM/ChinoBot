@@ -3,7 +3,7 @@ Discord Bot
 
 <img align="right" src="https://cdn.discordapp.com/attachments/611040945495998464/785454420766490644/62549335_p0.jpg" height="200" width="200">  
 
-[![Top.gg](https://top.gg/images/logoinverted.png)](https://top.gg/bot/731408794948730961)
+[![Top.gg](https://top.gg/images/dblnew.png)](https://top.gg/bot/731408794948730961)
 This is Discord Bot 4.0  
 By discord.js  
 Run node.js  
