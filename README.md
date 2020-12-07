@@ -1,11 +1,18 @@
 # chino-bot
 Discord Bot
 
-這是專案的小部分  
-部分檔案都會在這裡  
-喔然後這裡不會有token別擔心  
-然後你也爬不到重要代碼:)  
-    [只有架構嘿]  
+<img align="right" src="https://cdn.discordapp.com/attachments/611040945495998464/785454420766490644/62549335_p0.jpg" height="200" width="200">  
+This is Discord Bot 4.0  
+By discord.js  
+Run node.js  
+Its fun to discord guild.  
+You can type command play with Chino!  
+Invite this bot in Discord! [![Top.gg](https://top.gg/images/logoinverted.png)](https://top.gg/bot/731408794948730961)
+Use `cr!help` to get help!
 
-Project  智乃小幫手#5407  
+Project  @CreeperJIMM  
 BY       苦力怕怕#8558  
+
+Note: Please DON'T USE THIS CODE TO TRADE!  
+  
+///// All rights reserved. /////  
